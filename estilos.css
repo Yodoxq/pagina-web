@@ -1,3 +1,8 @@
+html{
+    background-color: gray;
+    color: aliceblue;
+}
+
 body{
     background-color: green;
     border: gray solid 1px;
