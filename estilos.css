@@ -1,10 +1,11 @@
-html{
-    background-color: gray;
-    color: aliceblue;
-}
+
 
 body{
     background-color: green;
     border: gray solid 1px;
     padding: 10px;
+}
+
+H2{
+    font-family: Arial, Helvetica, sans-serif;
 }
